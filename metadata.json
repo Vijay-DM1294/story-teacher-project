@@ -1,0 +1,7 @@
+{
+  "name": "StoryTeacher AI",
+  "description": "Learn School Concepts Through Age-Adapted Stories with dynamic interactive quizzes and parent/educator diagnostic reports.",
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
